@@ -1,2 +1,2 @@
-# password-generator
-a strong passoword is generated upon the choice of size by the user.
+`password_generator.py`
+`password_generator.py` is a Python script that generates strong and random passwords based on user specifications. The script utilizes the random module to generate passwords with varying lengths and complexity levels. 
